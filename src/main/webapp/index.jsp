@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Orey bokugaa yeti sestunddavu,Yyo yendabba ee Racha-Seema ki veltundaava leda</h1>
+<h1>Orey bokugaa yeti sestunddavu,Yyo yendabba ee Racha-Seema ki veltundaava leda, Seema maanchi vedigaa undaade</h1>
 <mak:newForm type="general.Person" action="index.jsp">
 Name: <mak:input field="name" /><br/>
 Surname: <mak:input field="surname" />
