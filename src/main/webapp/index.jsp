@@ -1,7 +1,7 @@
 <%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
 <html>
 <head>
-<title>         Sooridaa        yendundaavrayya     </title>
+<title>Sooridaa---yendundaavrayya</title>
 </head>
 <body>
 
