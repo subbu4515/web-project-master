@@ -1,7 +1,7 @@
 <%@ taglib uri="http://www.makumba.org/presentation" prefix="mak" %>
 <html>
 <head>
-<title>Lalli yenti Lolli </title>
+<title>Orey Lalla yendundaavrayya </title>
 </head>
 <body>
 
